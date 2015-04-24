@@ -2,4 +2,4 @@
 
 This is the pinteresting sample application for [*One Month Rails*](http://onemonthrails.com)
 
-by [Azin Faghihi](http://instagram.com/ozayn)
+by [Azin Faghihi](https://ozayn-pinteresting.herokuapp.com/)
