@@ -12,6 +12,8 @@ gem 'jbuilder', '~> 2.0' # Build JSON APIs with ease. Read more: https://github.
 gem 'sdoc', '~> 0.4.0', group: :doc # bundle exec rake doc:rails generates the API under doc/api.
 gem 'bootstrap-sass'
 gem 'devise','~>3.4.1'
+#gem 'paperclip', '~> 4.2'
+gem 'paperclip', github: 'thoughtbot/paperclip'
 
 group :development, :test do
   gem 'sqlite3' # Use sqlite3 as the database for Active Record
