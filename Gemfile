@@ -14,6 +14,7 @@ gem 'bootstrap-sass'
 gem 'devise','~>3.4.1'
 #gem 'paperclip', '~> 4.2'
 gem 'paperclip', github: 'thoughtbot/paperclip'
+gem 'aws-sdk', '< 2.0'
 
 group :development, :test do
   gem 'sqlite3' # Use sqlite3 as the database for Active Record
